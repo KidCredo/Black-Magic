@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Black Magic",
+  "theme": {
+    "colors": {
+      "frame" : "#202124", 
+      "tab_background_text" :"#eeeeee", 
+      "tab_text": "#eeeeee", 
+      "tab_loading": "#bdc1c6",
+      "tab_line": "#eeeeee",
+      "tab_selected": "#323639",
+      "tab_background_separator": "#878a8e",
+      "toolbar_field": "#282c2f", 
+      "toolbar_field_text": "#e8eaed",
+      "toolbar_field_border": "#323639",
+      "toolbar_bottom_separator": "#282828",
+      "toolbar_field_border_focus": "#385584",
+      "toolbar_field_separator": "#878a8e",
+      "toolbar": "#323639",
+      "toolbar_field_text_focus":"#eeeeee",
+      "ntp_background": "#202124",
+      "ntp_text": "#eeeeee",
+      "popup": "#202124",
+      "popup_text": "#eeeeee",
+      "popup_border": "#323639",
+      "popup_highlight": "#474b4e",
+      "popup_highlight_text": "#f1e8ca",
+      "icon":"#bdc1c6",
+      "icons_attention": "#8ab4f8",
+      "button_background_hover":"#424649",
+      "button_background_active": "#424649",
+      "sidebar_border": "#878a8e",
+      "sidebar": "#323639",
+      "sidebar_highlight": "#282c2f",
+      "sidebar_highlight_text": "#f1e8ca",
+      "sidebar_text": "#eeeeee"
+    }
+  }
+}
